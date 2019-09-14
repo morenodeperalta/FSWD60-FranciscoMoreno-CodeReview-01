@@ -1,0 +1,67 @@
+#container{
+	background-color: rgb(50, 105, 168);
+}
+
+.Columnheader {
+	width: 30%;
+	display: inline-block;
+	text-align: center;
+	padding: 14px 16px;
+}
+
+#navBar{
+	height:  50px;
+	width: 100%;
+	background-color: blue;
+}
+
+.navBarFormat{
+	font-size: 20px;
+	display: inline-block;
+	text-align: center;
+	padding: 14px 14px;
+}
+
+.active{
+	color: white;
+	text-align: center;
+	padding: 14px 14px;
+	text-decoration: none;
+}
+
+.content{
+	display: inline-block;
+	margin: 5px;
+	padding-right: 50px;
+}
+
+#title{	
+	text-align:right;
+    vertical-align:top;
+	width: 30%;
+}
+
+#descriptionTitle{
+	
+	text-align: left;
+	text-align: justify;
+	color: white;
+	width: 45%;
+}
+
+.columStructure{
+	margin: 1px;
+	padding-left: 110px;
+}
+		
+.picsTop{
+	display: inline-block;
+}
+
+.picsBottom{
+	display: inline-block;
+}
+
+#left{
+	float: left;
+}
